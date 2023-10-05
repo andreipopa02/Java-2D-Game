@@ -1,0 +1,18 @@
+    Reguli:
+    i) Scopul jocului este de a distruge toti inamicii/capcaunii
+        si de a ajunge la iesirea din labirint.
+    ii) Jucatorul incepe cu un numar limitat de bombe, pe care
+        le poate plasa in orice loc in labirint.
+    iii) Odata plasata, bomba explodeaza dupa un anumit timp,
+        distrugand obstacolele si inamicii din raza ei de actiune.
+    iv) Jucatorul trebuie sa evite bombele capcaunilor si sa se
+        asigure ca nu este prins in explozia propriei bombe.
+    v) Pe parcursul jocului jucatorul poate colecta power-up-uri,
+        care ii ofera avantaje in lupta cu capcaunii.
+    vi) Jocul se termina atunci cand toti capcaunii sunt invinsi
+        iar protagonistul ajunge la iesirea din labirint.
+
+    Miscare:
+        Up, Down, Left, Right
+    Plasare bombe:
+         Space
